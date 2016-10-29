@@ -1,2 +1,2 @@
 # JavaProject
-repository for learning Java with It-Academy and Vadim Radchikov
+repository for learning Java with It-Academy and Vadim Radchikov!
